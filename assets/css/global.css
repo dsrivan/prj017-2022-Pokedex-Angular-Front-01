@@ -1,0 +1,8 @@
+* {
+  font-family: var(--font-default), sans-serif;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--cinza-1);
+}
